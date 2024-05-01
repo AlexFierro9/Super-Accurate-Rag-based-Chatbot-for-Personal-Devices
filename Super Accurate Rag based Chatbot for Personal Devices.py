@@ -15,7 +15,6 @@ from typing import List
 from langchain.schema import Document
 from langgraph.graph import END, StateGraph
 from pprint import pprint
-os.environ["TAVILY_API_KEY"] = "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"
 
 local_llm = 'llama3'
 
