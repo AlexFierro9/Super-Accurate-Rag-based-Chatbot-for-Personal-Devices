@@ -27,7 +27,10 @@ In a world where documents can be overwhelmingly long, the dream is to have your
 This chatbot is powered by Meta's LLama 3, 4-bit quantized to GGUF.
 
 ## See It in Action
-Images showcasing the chatbot's capabilities can be found in the repository.
+![image](https://github.com/AlexFierro9/Super-Accurate-Rag-based-Chatbot-for-Personal-Devices/assets/95060707/0551d906-080c-416c-9673-57d0de1ddc1d)
+![image](https://github.com/AlexFierro9/Super-Accurate-Rag-based-Chatbot-for-Personal-Devices/assets/95060707/1bce7966-024c-4a08-b0ad-be331963e171)
+
+
 
 ## TODO
 - [ ] Add Topic Detection Capabilities
